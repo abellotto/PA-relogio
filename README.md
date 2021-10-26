@@ -15,5 +15,5 @@ Além disso, utiliza alguns comandos interessantes no JavaScript com o tratament
 
 - Configurar intervalo de execução: `setInterval()`
 - Captura da data e hora atual do sistema: `Date()`
-- Captura do horário do sistema: `getHours()`, ``getMinutes()`, `getSeconds()`
+- Captura do horário do sistema: `getHours()`, `getMinutes()`, `getSeconds()`
 - Utilização de `transform` `rotate`no css para manipulação dos ponteiros do relógio
